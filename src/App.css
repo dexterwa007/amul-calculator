@@ -1,0 +1,26 @@
+@import '~antd/dist/antd.css';
+
+.amul-app {
+  height: 100vh;
+  width: 100vw;
+}
+
+.header {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 8px 0 0 0;
+  position: relative;
+}
+
+.app-logo {
+  height: 50px;
+  width: 75px;
+}
+
+.menu-button {
+  position: absolute;
+  top: 16px;
+  left: 16px;
+}
